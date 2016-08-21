@@ -12,4 +12,8 @@ color:
     - '#011C26'
 layout_spectrum: 0.14905760064721107
 name: Brian Christopher Glaser
+navigation:
+  - name: New Work
+    id: b9af1d9c-afc7-4352-af73-71bdb8d27214
+    type: content
 title: Brian Christopher Glaser
